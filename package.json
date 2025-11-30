@@ -11,7 +11,9 @@
   "dependencies": {
     "next": "16.0.5",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "framer-motion": "^10.0.0",  // added framer-motion
+    "react-icons": "^4.3.1"      // added react-icons
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
